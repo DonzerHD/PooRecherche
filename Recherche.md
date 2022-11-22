@@ -43,4 +43,7 @@
  - L'héritage est un concept fondamental en Java qui permet de réutiliser du code de la classe mère  .On dit donc qu'une classe en étend une autre.
 
 ### Classes abstraites et concrètes 
-  -
+ - Une classe abstraite peut contenir ou non des méthodes abstraites. Une classe concrète ne peut pas contenir de méthode abstraite. Une classe abstraite ne peut pas être déclarée finale. Une classe concrète peut être déclarée finale
+
+### Classes abstraites et concrètes
+ - Le polymorphisme est un mécanisme important dans la programmation objet. Il permet de modifier le comportement d'une classe fille par rapport à sa classe mère.
